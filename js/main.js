@@ -5,6 +5,7 @@
 $('#blog-carousel').owlCarousel({
     loop:true,
     margin:30,
+    autoplay: true,
     nav:true,
     responsive:{
         0:{
